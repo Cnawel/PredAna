@@ -1,2 +1,7 @@
-# PredAna_infra_netw
-Predictive Analytics for infrastructure and networking
+# PredAna
+Predictive Analytics curated repositories and scripting for several industries
+
+Currently updating:
+Networking ISP (traffic prediction)
+Infrastructure (logs, email phising)
+Ecommerce (sales, churn rate)
